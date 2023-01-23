@@ -5,3 +5,6 @@ O projeto conversão de temperatura é um projeto desenvolvido em NodeJS. O proj
 
 ### Observações do projeto
 A aplicação é exposta usando a porta 8080
+
+### As imagens criadas estão na seguinte URL:
+https://hub.docker.com/repository/docker/vinisicius/conversao-temperatura/general
